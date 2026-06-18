@@ -1,7 +1,7 @@
-# fuelplanner
+# RaceBottle
 athletes fuel planner
 
-# Fuel Planner – Support
+# RaceBottle – Support
 
 Ernährungsplanung für Ausdauersportler (Triathlon, Radfahren, Marathon)
 
@@ -20,7 +20,7 @@ Wir antworten in der Regel innerhalb von 1–2 Werktagen.
 ## Häufige Fragen
 
 **Wie berechnet die App meine Kohlenhydratzufuhr?**
-Fuel Planner verwendet dein Körpergewicht und deine Trainingsintensität, um einen personalisierten KH-Zielwert (g/h) zu empfehlen. Aus diesem Zielwert wird invers die benötigte Pulvermenge pro Flasche berechnet – unter Berücksichtigung einer maximalen Konzentration von 8g KH/100ml.
+RaceBottle verwendet dein Körpergewicht und deine Trainingsintensität, um einen personalisierten KH-Zielwert (g/h) zu empfehlen. Aus diesem Zielwert wird invers die benötigte Pulvermenge pro Flasche berechnet – unter Berücksichtigung einer maximalen Konzentration von 8g KH/100ml.
 
 **Kann ich eigene Produkte hinzufügen?**
 Ja. In der Produktbibliothek kannst du eigene Drink Mixes, Gels und Salzkapseln manuell eingeben oder per Barcode-Scanner aus der Open Food Facts Datenbank importieren.
